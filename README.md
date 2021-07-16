@@ -1,10 +1,12 @@
-
-
-### Languages :  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakamraza&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
+### Stats :
+<table><tr>
+<td valign="top" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakamraza&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td>
+  
+<td valign="top" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=hakamraza&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" />
+</td></tr></table>  
 
 
 ### Frontend  
@@ -22,7 +24,6 @@
 </div>  
 
 
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
@@ -31,4 +32,3 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
-<br />
