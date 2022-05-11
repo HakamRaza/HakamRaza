@@ -1,6 +1,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hakamraza"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=228811&multiline=true&height=60&lines=Hai+%F0%9F%91%8B%2C+HakamRaza+here.;Welcome+to+my+Profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=228811&multiline=true&height=60&lines=Hi+%F0%9F%91%8B%2C+HakamRaza+here.;Welcome+to+my+Profile+!)](https://git.io/typing-svg)
 
 
 ### Languages:
@@ -26,11 +26,11 @@
 
 
 ### Stats :
-<table><tr>
-<td valign="top" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakamraza&hide_border=true&layout=compact" align="center" style="width: 100%" />
-</td>
-  
-<td valign="top" width="48%">
-<img src="https://github-readme-stats.vercel.app/api?username=hakamraza&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-</td></tr></table>  
+<table>
+  <td align="center" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakamraza&hide_border=true&layout=compact" align="center" />
+  </td>  
+  <td align="center" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=hakamraza&show_icons=true&count_private=true&hide_border=true" align="center" />
+  </td>
+</table>
