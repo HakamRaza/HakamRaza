@@ -1,10 +1,21 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hakamraza)
 ![VSC](https://img.shields.io/badge/Codium-5C2D91?flat&logo=visual%20studio&logoColor=white)
 ![WindowsOS](https://img.shields.io/badge/Windows-0078D6?flat&logo=windows&logoColor=white)
+<br></br>
 
+<div align="center">
+    <img src="./rocket.gif" width="80px" height="80px"> 
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=228811&multiline=true&height=60&lines=Hi+%F0%9F%91%8B%2C+HakamRaza+here.;Welcome+to+my+Profile+!)](https://git.io/typing-svg)
+<h1 align="center">
+    Hello 
+    🖐 
+    I'm Hakam Raza
+</h1>
 
+<h3 align="center">
+    Fullstack Developer On-Training
+</h3>
 
 ### Languages:
 
@@ -35,6 +46,7 @@
 
 
 ### Stats :
+
 <table>
   <td align="center" width="48%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakamraza&hide_border=true&layout=compact" align="center" />
