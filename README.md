@@ -36,13 +36,21 @@
 ![Yarn](https://img.shields.io/badge/Yarn-1476a2?flat&logo=Yarn&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?flat&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?flat&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?flat&logo=git&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?flat&logo=wordpress&logoColor=white)
+
+
+### Cloud Service:
+
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?flat&logo=microsoft-office&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?flat&logo=google-cloud&logoColor=white)
 ![GA4](https://img.shields.io/badge/Google%20Analytics-E37400?flat&logo=google%20analytics&logoColor=white)
 ![FB Analytics](https://img.shields.io/badge/Facebook%20Analytics-1877F2?flat&logo=facebook&logoColor=white)
+
+
+### Tools:
+
+![Git](https://img.shields.io/badge/GIT-E44C30?flat&logo=git&logoColor=white)
 
 
 ### Stats :
