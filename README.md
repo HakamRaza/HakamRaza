@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hakamraza)
 ![VSC](https://img.shields.io/badge/Codium-5C2D91?flat&logo=visual%20studio&logoColor=white)
 ![WindowsOS](https://img.shields.io/badge/Windows-0078D6?flat&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?flat&logo=ubuntu&logoColor=white)
 <br></br>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?flat&logo=microsoft-azure&logoColor=white)
 ![GA4](https://img.shields.io/badge/Google%20Analytics-E37400?flat&logo=google%20analytics&logoColor=white)
 ![FB Analytics](https://img.shields.io/badge/Facebook%20Analytics-1877F2?flat&logo=facebook&logoColor=white)
 
@@ -50,7 +50,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?flat&logo=microsoft-office&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?flat&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?flat&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?flat&logo=notion&logoColor=white)
 
 
 ### Stats :
