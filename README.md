@@ -14,9 +14,11 @@
     I'm Hakam Raza
 </h1>
 
-<h3 align="center">
-    Fullstack Developer On-Training
-</h3>
+<div align="center">
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F3F8FFF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;A+fullstack+developer+On+Training;+Currently,+exploring+Backend+and+DevSecOps;I+am+interested+in+building+something+awesome+🧠;Exploring+new+magics+everyday.+💡)](#)
+</div>
+
 
 ### Languages:
 
